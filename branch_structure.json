@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/1251-use-scroll-to-top-boundary-recovery"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/1251-use-scroll-to-top-boundary-recovery": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/1251-use-scroll-to-top-boundary-recovery"
+  ]
+}
